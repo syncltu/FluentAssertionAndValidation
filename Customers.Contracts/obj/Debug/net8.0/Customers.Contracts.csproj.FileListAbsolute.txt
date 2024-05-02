@@ -1,0 +1,11 @@
+C:\Users\BG6667\OneDrive - Danske Bank A S\Desktop\Outbox Pattern\Customers.Contracts\bin\Debug\net8.0\Customers.Contracts.deps.json
+C:\Users\BG6667\OneDrive - Danske Bank A S\Desktop\Outbox Pattern\Customers.Contracts\bin\Debug\net8.0\Customers.Contracts.dll
+C:\Users\BG6667\OneDrive - Danske Bank A S\Desktop\Outbox Pattern\Customers.Contracts\bin\Debug\net8.0\Customers.Contracts.pdb
+C:\Users\BG6667\OneDrive - Danske Bank A S\Desktop\Outbox Pattern\Customers.Contracts\obj\Debug\net8.0\Customers.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BG6667\OneDrive - Danske Bank A S\Desktop\Outbox Pattern\Customers.Contracts\obj\Debug\net8.0\Customers.Contracts.AssemblyInfoInputs.cache
+C:\Users\BG6667\OneDrive - Danske Bank A S\Desktop\Outbox Pattern\Customers.Contracts\obj\Debug\net8.0\Customers.Contracts.AssemblyInfo.cs
+C:\Users\BG6667\OneDrive - Danske Bank A S\Desktop\Outbox Pattern\Customers.Contracts\obj\Debug\net8.0\Customers.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\BG6667\OneDrive - Danske Bank A S\Desktop\Outbox Pattern\Customers.Contracts\obj\Debug\net8.0\Customers.Contracts.dll
+C:\Users\BG6667\OneDrive - Danske Bank A S\Desktop\Outbox Pattern\Customers.Contracts\obj\Debug\net8.0\refint\Customers.Contracts.dll
+C:\Users\BG6667\OneDrive - Danske Bank A S\Desktop\Outbox Pattern\Customers.Contracts\obj\Debug\net8.0\Customers.Contracts.pdb
+C:\Users\BG6667\OneDrive - Danske Bank A S\Desktop\Outbox Pattern\Customers.Contracts\obj\Debug\net8.0\ref\Customers.Contracts.dll
